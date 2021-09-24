@@ -1,0 +1,17 @@
+.app{
+  margin-top: 5%;
+  margin-left: 35%;
+}
+
+.footer{
+  background-color: #0005;
+    left: 0;
+    bottom: 0;
+    top: 520px;
+    width: 100%;
+    color: white;
+    text-align: center;
+    position: relative;
+}
+
+

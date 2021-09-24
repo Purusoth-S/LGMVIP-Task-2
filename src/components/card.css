@@ -1,0 +1,20 @@
+#card
+{
+    border-radius: 5px;
+    background-color:rgb(17, 98, 98);
+    color:rgb(255, 255, 255);
+    position: relative ;
+    width:25rem;
+}
+
+#card:hover
+{
+    color: #000;;
+    background-color:rgb(255, 255, 255);
+    
+}
+#image
+{
+    border-radius: 30%;
+    border-width: 30px;
+}
